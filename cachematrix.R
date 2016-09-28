@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+# File created on 28 Sept 2016 to create code for the Week 3 assignment
+# for RProgramming
+
+## These functions...
 
 ## Write a short comment describing this function
 
